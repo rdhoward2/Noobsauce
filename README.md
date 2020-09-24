@@ -1,2 +1,3 @@
 # Noobsauce
-Nooblets doing teh coding thing.
+Noobs doing teh coding thing.
+
